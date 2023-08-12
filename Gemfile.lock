@@ -109,7 +109,7 @@ GEM
       thread_safe
     racc (1.5.2)
     racc (1.5.2-java)
-    rack (2.2.3)
+    rack (2.2.8)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rails-dom-testing (2.0.3)
